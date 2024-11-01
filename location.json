@@ -1,0 +1,28 @@
+{
+    "destinations": [
+      {
+        "latitude": 51.5135655,
+        "longitude": -0.2429161,
+        "data": {
+          "name": "Sports Rise - Brent Cross",
+          "address": "Unit C, Brent Cross Shopping Park, Tilling Road, London NW2 1LW"
+        }
+      },
+      {
+        "latitude": 51.506747,
+        "longitude": 0.223612,
+        "data": {
+          "name": "Sports Rise - Westfield",
+          "address": "Unit 2057, Ariel Way, London W12 7GE"
+        }
+      },
+      {
+        "latitude": 51.481815,
+        "longitude": -0.199366,
+        "data": {
+          "name": "Sports Rise - West Brompton",
+          "address": "424, 425 North End Rd, London SW6 1NY"
+        }
+      }
+    ]
+  }
